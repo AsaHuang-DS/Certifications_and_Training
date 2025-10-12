@@ -1,2 +1,2 @@
 # Certifications_and_Training
-Repo for verified certifications, data science training, and learning achievements.
+Repo for verified professional certifications, data training certifications, and learning achievements certifications.
