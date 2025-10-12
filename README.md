@@ -1,9 +1,9 @@
 # Certifications & Training
 
 Welcome to my **Certifications and Training** repository — a centralized collection of my verified credentials, professional certifications, and completed learning achievements.  
+
 This repository serves as a transparent record of my continuous learning and professional development in **data analytics**, **data science**, and **technology**.
 
----
 
 ## Repository Structure
 
@@ -18,7 +18,6 @@ These validate my technical competencies in areas such as data analysis, visuali
 ### 3. `Learning Achievement Certifications/`
 Contains certificates of completion from relevant workshops, online courses, and learning experiences that demonstrate commitment to continuous upskilling.
 
----
 
 ## Purpose
 This repository is intended for:
@@ -26,14 +25,10 @@ This repository is intended for:
 - **Collaborators and peers** to view my areas of specialization and growth.
 - **Personal recordkeeping** for ongoing professional development.
 
----
-
 ## Verification
 Where available, each certification includes:
 - A **verification link** or credential ID.
 - **Issuing organization** and **date of issuance**.
-
----
 
 ## Ongoing Development
 This repository will be **regularly updated** as I complete new certifications and learning milestones.  
