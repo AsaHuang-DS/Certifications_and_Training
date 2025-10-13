@@ -10,8 +10,7 @@ These credentials demonstrate applied skills in data analysis, machine learning,
 
 | Certification | Issuer / Platform | Date | Verification / Link |
 |----------------|-------------------|------|----------------------|
-| Example: Data Analyst Professional Certificate | DataCamp | July 2024 | [View Credential](https://www.datacamp.com/credential-link) |
-| Example: Machine Learning Specialization | Coursera (Stanford University) | March 2025 | [View Certificate](https://coursera.org/verify/1234ABC) |
+| MTA: Introduction to Programming Using Python - Certified 2021 | Beddingfield High School | Apr 2021 | [View Certificate](https://www.credly.com/badges/0608db61-4f52-4ebf-8b51-9bef1ed1a26f?source=linked_in_profile) |
 
 ---
 
