@@ -11,8 +11,6 @@ They reflect continuous learning, exploration, and engagement across multiple di
 | Course / Achievement | Platform / Institution | Date | Verification / Link |
 |-----------------------|------------------------|------|----------------------|
 | National Honors Society  | NHS | Oct 2020 | [View Certificate](https://www.credly.com/badges/f880c1e6-8b4d-4b7f-b0ac-55651a2bccb7?source=linked_in_profile) |
-| MATLAB Onramp Certification | MATLAB | Aug 2023 | [View Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=678f97be-5f71-4ec0-a69c-0e8e67ecad02&)
-
 
 ---
 
