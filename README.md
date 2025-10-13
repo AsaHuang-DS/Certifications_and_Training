@@ -34,6 +34,7 @@ Where available, each certification includes:
 This repository will be **regularly updated** as I complete new certifications and learning milestones.  
 
 > _Continuous learning is not optional — it’s the foundation of growth in data and technology._
+> _Data as purpose - not just numbers, but the compass guiding meaning._
 
 ---
 
