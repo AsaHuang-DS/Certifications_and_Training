@@ -11,6 +11,7 @@ Each entry includes the credential title, issuing body, date, and verification l
 | Certification | Issuer | Date | Verification / Credential ID |
 |----------------|---------|------|-------------------------------|
 | MTA: Introduction to Programming Using Python | Beddingfield High School | Apr 2021 | [View Certificate](https://www.credly.com/badges/0608db61-4f52-4ebf-8b51-9bef1ed1a26f?source=linked_in_profile) |
+| CITI Program - Group 2 Social & Behavioral Research | UNC Chapel Hill | Aug 2024 - Aug 2027 | [View Certificate](https://www.citiprogram.org/verify/?w69615c95-fd3b-4aba-b425-4fdc9b7da156-64484344) |
 
 ---
 
