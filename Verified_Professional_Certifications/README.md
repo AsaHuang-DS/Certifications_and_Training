@@ -6,7 +6,7 @@ Each entry includes the credential title, issuing body, date, and verification l
 
 ---
 
-## 📋 Certifications Index
+## Certifications Index
 
 | Certification | Issuer | Date | Verification / Credential ID |
 |----------------|---------|------|-------------------------------|
