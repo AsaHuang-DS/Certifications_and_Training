@@ -10,8 +10,7 @@ Each entry includes the credential title, issuing body, date, and verification l
 
 | Certification | Issuer | Date | Verification / Credential ID |
 |----------------|---------|------|-------------------------------|
-| Example: SAS Certified Specialist: Base Programming | SAS Institute | Aug 2024 | [Verify Credential](https://www.your-verification-link.com) |
-| Example: Microsoft Certified: Azure Data Scientist Associate | Microsoft | Feb 2025 | Credential ID: ABC123XYZ |
+| MTA: Introduction to Programming Using Python - Certified 2021 | Beddingfield High School | Apr 2021 | [View Certificate](https://www.credly.com/badges/0608db61-4f52-4ebf-8b51-9bef1ed1a26f?source=linked_in_profile) |
 
 ---
 
