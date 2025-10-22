@@ -14,9 +14,9 @@ These credentials demonstrate applied skills in data analysis, machine learning,
 | DataCamp - Introduction to DataBricks | DataCamp | Jun 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/99c90e936638f834690268b5e06428bda291adf1) |
 | DataCamp - Intermediate Python | DataCamp | Jun 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/9e422aded43dd142b223fa529f59dfda24ba7485) |
 | DataCamp - Data Visualization in Power BI | DataCamp | Jun 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ef6c0588ffb6a70b8aa109fb7f53496dc746a865) |
-| DataCamp - Introduction to SQL | DataCamp | Oct 2025 | [View Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/51632edc9c8f6b290f60a535756ea4d74ffa7939) | 
-| DataCamp - Intermediate SQL | DataCamp | Oct 2025 | [View Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/c4f58ffe692b0e5e27b809491a314914ecde66d2)|
-| DataCamp - Joining Data in SQL | DataCamp | Oct 2025 | [View Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/51632edc9c8f6b290f60a535756ea4d74ffa7939)| 
+| DataCamp - Introduction to SQL | DataCamp | Oct 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/51632edc9c8f6b290f60a535756ea4d74ffa7939) | 
+| DataCamp - Intermediate SQL | DataCamp | Oct 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/c4f58ffe692b0e5e27b809491a314914ecde66d2)|
+| DataCamp - Joining Data in SQL | DataCamp | Oct 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/51632edc9c8f6b290f60a535756ea4d74ffa7939)| 
 
 ---
 
