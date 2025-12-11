@@ -18,6 +18,7 @@ These credentials demonstrate applied skills in data analysis, machine learning,
 | DataCamp - Intermediate SQL | DataCamp | Oct 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/c4f58ffe692b0e5e27b809491a314914ecde66d2)|
 | DataCamp - Joining Data in SQL | DataCamp | Oct 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/51632edc9c8f6b290f60a535756ea4d74ffa7939)| 
 | DataCamp - Data Manipulation in SQL | DataCamp | Nov 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab4c38424f3949f30c11d84ace6af59296a28fcd) |
+| DataCamp - PostgreSQL Summary Stats and Window Functions | DataCamp | Nov 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1a64f6a1dde491256bbc5551a0eecf1aa954a9da) |
 | DataCamp - Introduction to Python | DataCamp | Dec 2025 | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/14fcc4e0cf1b48637d4df7b89c9a51e7c92ed850) |
 
 ---
